@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "helm-cscope" "helm-cscope.el" (22298 1155
-;;;;;;  588968 562000))
+;;;### (autoloads nil "helm-cscope" "helm-cscope.el" (22353 12493
+;;;;;;  807596 924000))
 ;;; Generated autoloads from helm-cscope.el
 
 (autoload 'helm-cscope-find-this-symbol "helm-cscope" "\
